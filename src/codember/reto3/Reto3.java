@@ -44,7 +44,7 @@ public class Reto3 {
 		}
 		
 		// Secreto
-		System.out.println("Clave invalida nº 13: submit " + clavesInvalidas.get(12)); // 13
+		System.out.println("Clave invalida nº 13: sudo " + clavesInvalidas.get(12)); // 13
 		System.out.println("Clave invalida nº 42: submit " + clavesInvalidas.get(41));// 42
 		
 		Utils.printTotalTime(init);
